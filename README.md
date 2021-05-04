@@ -8,9 +8,9 @@ Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 ## "Project Source Codes:
 * [Breakout](https://github.com/mikelin16/SC-projects/blob/main/collection/breakout/breakoutgraphics_extentions.py)
   * animation & game designing
-* [Stancodoshop]
+* [stanCodoshop](https://github.com/mikelin16/SC-projects/blob/main/collection/stanCodoshop/stanCodoshop.py)
   * image processing 
-* [Babyname]
+* [Babyname](https://github.com/mikelin16/SC-projects/blob/main/collection/babygraphics/babygraphics.py)
   * data structure
-* [Boggle]
+* [Boggle](https://github.com/mikelin16/SC-projects/blob/main/collection/boggle/boggle.py)
   * recursive functions
