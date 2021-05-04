@@ -8,7 +8,7 @@ Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 ## "Project Source Codes:
 * [Hangman](https://github.com/mikelin16/SC-projects/blob/main/collection/hangman/hangman.py)
   * python semantics & syntax
-* [Weather Master]()
+* [Weather Master](https://github.com/mikelin16/SC-projects/blob/main/collection/weather%20master/weather_master.py)
   * python semantics & syntax
 * [Breakout](https://github.com/mikelin16/SC-projects/blob/main/collection/breakout/breakoutgraphics_extentions.py)
   * animation & game designing
