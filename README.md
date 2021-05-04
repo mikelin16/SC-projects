@@ -6,6 +6,10 @@ Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 
 ## "Project Source Codes:
+* [Hangman](https://github.com/mikelin16/SC-projects/blob/main/collection/hangman/hangman.py)
+  * python semantics & syntax
+* [Weather Master]()
+  * python semantics & syntax
 * [Breakout](https://github.com/mikelin16/SC-projects/blob/main/collection/breakout/breakoutgraphics_extentions.py)
   * animation & game designing
 * [stanCodoshop](https://github.com/mikelin16/SC-projects/blob/main/collection/stanCodoshop/stanCodoshop.py)
