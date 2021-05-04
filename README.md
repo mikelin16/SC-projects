@@ -6,7 +6,7 @@ Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 
 ## "Project Source Codes:
-* [Breakout]
+* [Breakout](https://github.com/mikelin16/SC-projects/blob/main/collection/breakout/breakoutgraphics_extentions.py)
   * animation & game designing
 * [Stancodoshop]
   * image processing 
